@@ -10,7 +10,7 @@ const Header = () => {
       <div className="_header sm:flex h-full">
         <div className="hidden sm:flex max-w-[150px] md:max-w-[178px] w-full cursor-pointer sm:hover:bg-gray-50 items-center justify-center border-r _border-light">
           <Link to={'/'}>
-            <img src="/public/favicon.png" alt="ee" className='w-36'/>
+            <img src="/public/logo-512.png" alt="ee" className='w-36'/>
           </Link>
         </div>
         <div className="w-full sm:w-[240px] xl:w-[320px] py-4 px-1 sm:p-0 _header_loc flex items-center sm:justify-center cursor-pointer sm:hover:bg-gray-50">
